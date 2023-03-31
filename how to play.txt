@@ -1,0 +1,12 @@
+
+ ____  _            ____  _                 _       _             
+|  _ \(_) ___ ___  / ___|(_)_ __ ___  _   _| | __ _| |_ ___  _ __ 
+| | | | |/ __/ _ \ \___ \| | '_ ` _ \| | | | |/ _` | __/ _ \| '__|
+| |_| | | (_|  __/  ___) | | | | | | | |_| | | (_| | || (_) | |   
+|____/|_|\___\___| |____/|_|_| |_| |_|\__,_|_|\__,_|\__\___/|_|   
+
+
+
+
+
+This is a classic "roll the dice" program. We will be using the random module for this,since we want to randomize the numbers we get from the dice. We set two variables (min and max) , lowest and highest number of the dice. We then use a while loop, so that the user can roll the dice again. The roll_again can be set to any value, but here it's set to "yes" or "y", but you can also add other variations to it.
